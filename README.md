@@ -1,4 +1,4 @@
-# PaperWise-QA
+# PaperGPT
 _A professional, LLM-powered Research Paper Question Answering System_  
 (Recommended repo name — original repo: `sultanakona/Scholarly-Q-A-Bot-using-LLM`)
 
